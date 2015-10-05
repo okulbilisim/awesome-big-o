@@ -3,6 +3,7 @@ A curated list of materials about Big O notation.
 
 ## Cheat Sheets
 - [Big-O Cheat Sheet](http://bigocheatsheet.com)
+- [Visualization of Sorting Algorithms](http://www.sorting-algorithms.com/)
 
 ## Lecture Notes
 - [MIT's Introduction to Computers & Programming](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
