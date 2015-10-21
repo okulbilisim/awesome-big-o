@@ -18,3 +18,4 @@ A curated list of materials about Big O notation.
 ## Language Specific
 - [Scala Collections] (http://docs.scala-lang.org/overviews/collections/performance-characteristics.html)
 - [Python Collections] (https://wiki.python.org/moin/TimeComplexity)
+- [List of Big-O for PHP functions] (http://stackoverflow.com/a/2484455/472433)
