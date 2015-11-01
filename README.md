@@ -7,6 +7,7 @@ A curated list of materials about Big O notation.
 
 ## Lecture Notes
 - [MIT's Introduction to Computers & Programming](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
+- [Khan Academy's Algorithms Course](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
 
 ## Questions & Answers
 - [Plain English explanation of Big O](http://stackoverflow.com/a/487278/472433)
