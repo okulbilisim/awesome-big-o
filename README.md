@@ -17,6 +17,6 @@ A curated list of materials about Big O notation.
 - [Algorithms: Design and Analysis, Part 1, Week 1: Asymptotic Analysis](https://class.coursera.org/algo-004/lecture/169) on Coursera by Tim Roughgarden
 
 ## Language Specific
-- [Scala Collections] (http://docs.scala-lang.org/overviews/collections/performance-characteristics.html)
-- [Python Collections] (https://wiki.python.org/moin/TimeComplexity)
-- [List of Big-O for PHP functions] (http://stackoverflow.com/a/2484455/472433)
+- [Scala Collections](http://docs.scala-lang.org/overviews/collections/performance-characteristics.html)
+- [Python Collections](https://wiki.python.org/moin/TimeComplexity)
+- [List of Big-O for PHP functions](http://stackoverflow.com/a/2484455/472433)
